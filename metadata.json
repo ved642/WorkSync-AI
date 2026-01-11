@@ -1,0 +1,8 @@
+{
+  "name": "WorkSync AI",
+  "description": "An enterprise-grade B2B SaaS for intelligent employee management, AI-powered task assignment, and strategic business insights with a premium orchid-themed dark UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
